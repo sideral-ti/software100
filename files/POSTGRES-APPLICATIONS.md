@@ -18,4 +18,3 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 logging.level.org.springframework=INFO
 logging.level.org.hibernate=INFO
 
-
